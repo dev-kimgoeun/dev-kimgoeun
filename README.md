@@ -1,7 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=RED8&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=red8&height=150&section=header" />
 
 Hello ! 
 🌱 my skills...
+<br>
+
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![javaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=yellow)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -17,10 +19,15 @@ Hello !
 
 ⚡ keep trying...
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={dev-kimgoeun}&theme=blue-red
-https://github-readme-stats.vercel.app/api?username={dev-kimgoeun}&theme=blue-red
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-kimgoeun)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-kimgoeun)](https://github.com/anuraghazra/github-readme-stats)
 
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ak0150a01)](https://velog.io/@ak0150a01/posts)
+<br>
+
+✨ what's my latest velog post?
+<br>
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ak0150a01)](https://velog.io/@ak0150a01/posts)
 
  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=RED8&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=red8&height=150&section=footer" />
