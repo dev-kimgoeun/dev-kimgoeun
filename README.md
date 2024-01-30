@@ -1,4 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=white8&height=150&section=header" />
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=red&height=150&section=footer&text=변화를 즐기는 개발자&fontSize=80" />
 
 Hello ! 
@@ -25,15 +24,9 @@ Hello !
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-kimgoeun)](https://github.com/anuraghazra/github-readme-stats) 
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-kimgoeun)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-
 ✨ what's my latest velog post?
 <br>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ak0150a01)](https://velog.io/@ak0150a01/posts)
 
- 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=red8&height=150&section=footer" />
+ <img src="https://capsule-render.vercel.app/api?type=rounded&color=red&height=150" />
