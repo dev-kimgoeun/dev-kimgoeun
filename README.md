@@ -1,5 +1,7 @@
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=E53935&height=150&section=header&text=변화를 즐기는 개발자! &fontSize=50" />
 
-Hello ! 
+
+### Hello 😄🖐 ! 
 <br>
 
 🌱 my skills...
