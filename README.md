@@ -1,4 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=red&height=150&section=footer&text=변화를 즐기는 개발자&fontSize=80" />
 
 Hello ! 
 <br>
@@ -29,4 +28,3 @@ Hello !
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ak0150a01)](https://velog.io/@ak0150a01/posts)
 
- <img src="https://capsule-render.vercel.app/api?type=rounded&color=red&height=150" />
