@@ -1,7 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=red8&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=white8&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=red&height=150&section=footer&text=변화를 즐기는 개발자&fontSize=80" />
 
 Hello ! 
+<br>
+
 🌱 my skills...
+<br>
 <br>
 
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -19,7 +23,9 @@ Hello !
 
 ⚡ keep trying...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-kimgoeun)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-kimgoeun)](https://github.com/anuraghazra/github-readme-stats) 
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-kimgoeun)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
