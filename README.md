@@ -42,9 +42,10 @@
 <br>
 
 ⚡ keep trying...
+
 <br>
 <br>
-<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-kimgoeun)](https://github.com/anuraghazra/github-readme-stats) 
 
 <br>
@@ -52,7 +53,6 @@
 
 ✨ what's my latest velog post?
 
-<br>
 <br>
 <br>
 
