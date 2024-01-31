@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=FFCDD2&height=120&section=header&text=변화를%20즐기는%20개발자!&fontSize=30"/>
-
+<br>
   
 ![nick judy](https://github.com/dev-kimgoeun/dev-kimgoeun/assets/148428523/455421ab-853a-4947-a900-fa76c291f79e)
 
@@ -35,14 +35,15 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-
+<br>
 ⚡ keep trying...
-
+<br>
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-kimgoeun)](https://github.com/anuraghazra/github-readme-stats) 
-
+<br>
 ✨ what's my latest velog post?
 <br>
-
+<br>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ak0150a01)](https://velog.io/@ak0150a01/posts)
 
 </div>
