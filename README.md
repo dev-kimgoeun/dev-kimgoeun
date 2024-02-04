@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=FFCDD2&height=120&section=header&text=try%20everything%20and%20start%20again!&fontSize=30"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=FFCDD2&height=120&section=header&text=Try%20Everything%20and%20Start%20Again!&fontSize=30"/>
 <br>
   <br>
   <br>
