@@ -6,7 +6,6 @@
 
 
 # Hello I'm GOEUN  😄🖐 
-#### 안녕하세요! 저는 개발을 시작한 지 얼마안된 주니어 개발자 김고은입니다! <br> java를 주로 사용하며, 백엔드를 잘 하고 싶지만 프론트도 좋아합니다. <br> 취미는 독서와 마라톤입니다. 무라카미 하루키와 움베르토 에코를 좋아하고, <br> 애니메이션 영화 보는 것도 좋아합니다! <br> 좌우명은 try everything and start again! 입니다! 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdev-kimgoeun%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/dev-kimgoeun)                
 <br>
