@@ -61,10 +61,5 @@
 <br>
 <br>
 
-✨ what's my latest velog post?
-
-<br>
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ak0150a01)](https://velog.io/@ak0150a01/posts)
 
 </div>
